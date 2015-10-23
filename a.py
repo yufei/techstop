@@ -1,7 +1,7 @@
 #
-#!/usr/bin/env python3.3
+#!/usr/bin/env python3.5
 #!/usr/bin/env python2.7
-#!/usr/bin/python3.3
+#!/usr/bin/python3.5
 #!/usr/bin/python2.7
 #
 # Yufei <yufeixiaoyu@gmail.com>
